@@ -7,8 +7,9 @@ grep "bulb" forest/filescan_00.1
 
 
 ### b)
-
-
+grep "izard" forest/filescan_00.2
+grep "mander" forest/filescan_00.2
+grep "meleon" forest/filescan_00.2
 
 ### c)
 
