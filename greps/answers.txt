@@ -12,10 +12,10 @@ grep "mander" forest/filescan_00.2
 grep "meleon" forest/filescan_00.2
 
 ### c)
-
-
-
-
+grep "ivys" forest/filescan_00.3
+grep "jigg" forest/filescan_00.3
+grep "meow" forest/filescan_00.3
+grep "chu" forest/filescan_00.3
 
 
 
