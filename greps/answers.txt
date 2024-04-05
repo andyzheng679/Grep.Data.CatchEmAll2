@@ -17,11 +17,11 @@ grep "jigg" forest/filescan_00.3
 grep "meow" forest/filescan_00.3
 grep "chu" forest/filescan_00.3
 
-
-
-
-
-
+### d)
+grep "psyd" forest/filescan_00.4
+grep "squi" forest/filescan_00.4
+grep "venu" forest/filescan_00.4
+grep "wart" forest/filescan_00.4
 
 
 
