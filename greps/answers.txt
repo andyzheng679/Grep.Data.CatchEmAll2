@@ -27,6 +27,7 @@ grep "wart" forest/filescan_00.4
 
 # Part 2
 ### a)
+grep -c "forest" /Users/andy/Desktop/Projects/Grep.Data.CatchEmAll2/greps/answers.txt
 
 
 
@@ -34,7 +35,10 @@ grep "wart" forest/filescan_00.4
 
 
 ### b)
-
+grep -c ^ captured/*txt;
+beedrill
+pikachu
+charizard
 
 
 
